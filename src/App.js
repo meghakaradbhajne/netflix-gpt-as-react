@@ -1,11 +1,11 @@
 import "./App.css";
+import Body from "./components/Body";
 
 function App() {
   return (
     <div>
-      <h1 className="text-4xl font-bold text-green-800">Namste React</h1>
-    
-    </div>
+  <Body/>
+ </div>
   );
 }
 

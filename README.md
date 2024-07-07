@@ -1,6 +1,8 @@
 # NEtflix-gpt Project
  - create React App
  -configured Tailwindcss
+ -Header
+ -Login Form
 
 # Feature
 Login/signUp
